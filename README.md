@@ -2,4 +2,4 @@
 
 SuperTrunfo Forza Edition
 
-Esse foi o projeto em que eu aprendi a fazer um jogo de cartas, onde foi necessario utilizar uma combinação de comandos descoberto em aulas anteriores.
+Esse foi o projeto em que eu aprendi a fazer um jogo de cartas, onde foi necessario utilizar uma combinação de comandos descoberto em aulas anteriores. Aceitando os desafios passados por eles, professores, trouxe o SuperTrunfo pro mundo dos carros, assim criando "SuperTrunfo Forza Edition".
